@@ -10,5 +10,5 @@
 **Heroku deployment** :[Link](https://car-price-prediction-msb.herokuapp.com/)
 
 ## Preview
-![carprice](https://user-images.githubusercontent.com/51831819/111029902-49b22480-8425-11eb-88ad-5682c53208cc.PNG)
+
 ![carprice](https://user-images.githubusercontent.com/96257624/191301679-4d25e635-491f-4f26-8d7b-ab3a9ca6aeda.png)
